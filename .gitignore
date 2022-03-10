@@ -1,0 +1,8 @@
+.pos-blockchain-base.tmp.nlogo
+*(copy).nlogo
+
+*.csv
+/q_table.json
+*tmp*
+*.json
+experiments/*
